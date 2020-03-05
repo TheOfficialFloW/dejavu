@@ -24,7 +24,7 @@ A Memory Card is required for this plugin.
 You can save or a load a state at any point by pressing a combination of three buttons.
 
 - To **save** a state, press the **R** trigger.
-- To **load** a state, press the **L **trigger.
+- To **load** a state, press the **L** trigger.
 
 Then, select one of the six slots by pressing them:
 
