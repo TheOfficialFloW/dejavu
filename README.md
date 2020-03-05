@@ -14,7 +14,7 @@ A Memory Card is required for this plugin.
 
    ```
    *KERNEL
-   `ux0:tai/dejavu.skprx
+   ux0:tai/dejavu.skprx
    ```
 
 3. Reboot your device and enjoy this new feature.
